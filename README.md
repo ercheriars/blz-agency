@@ -1,6 +1,7 @@
 # BLZ Agency | Future-Forward Digital Design
 
-![BLZ Agency Logo](logo.png)
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/ab7cb268-8c84-4f72-814d-94385d2cd302" />
+
 
 BLZ Agency is a premium, growth-focused creative agency that blends futuristic aesthetics with strategic digital solutions. We help brands, businesses, and founders dominate the digital era through cinematic storytelling and high-impact design.
 
